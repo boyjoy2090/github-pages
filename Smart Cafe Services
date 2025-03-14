@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Café Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <h1>Smart Café Services</h1>
+        <p>Your One-Stop Digital Service Solution</p>
+    </header>
+
+    <!-- Services Section -->
+    <section id="services" class="section">
+        <h2>Our Services</h2>
+        <div class="service-container">
+            <div class="service-card">
+                <h3>Aadhaar & PAN Assistance</h3>
+                <p>Quick and reliable Aadhaar and PAN card services.</p>
+            </div>
+            <div class="service-card">
+                <h3>Website Creation</h3>
+                <p>We design modern, user-friendly websites for businesses.</p>
+            </div>
+            <div class="service-card">
+                <h3>Digital Documentation</h3>
+                <p>Fast digital form filling and documentation assistance.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about" class="section about-section">
+        <h2>About Us</h2>
+        <p>At Smart Café Services, we are dedicated to providing professional digital solutions. From Aadhaar & PAN card services to website creation, we make your digital needs hassle-free and efficient.</p>
+    </section>
+
+    <!-- Contact Us Section -->
+    <section id="contact" class="section">
+        <h2>Contact Us</h2>
+        <p>Phone: +91-XXXXXXXXXX</p>
+        <p>Email: smartcafeservices@example.com</p>
+    </section>
+
+    <!-- Footer with Social Links -->
+    <footer>
+        <p>Follow us on:</p>
+        <a href="https://wa.me/yourwhatsappnumber" target="_blank">WhatsApp</a> |
+        <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a>
+    </footer>
+</body>
+
+</html>
+
+
+
